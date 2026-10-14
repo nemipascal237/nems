@@ -23,7 +23,7 @@
         "security": "none",
 
         "wsSettings": {
-          "path": "/@jolytoeldios",
+          "path": "/jolytoeldios",
           "heartbeatPeriod": 20
         }
       }
