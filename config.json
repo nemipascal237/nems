@@ -7,15 +7,14 @@
     {
       "listen": "0.0.0.0",
       "port": "env:PORT",
-      "protocol": "vless",
+      "protocol": "trojan",
 
       "settings": {
         "clients": [
           {
-            "id": "@jolytonems"
+            "password": "@jolytonems"
           }
-        ],
-        "decryption": "none"
+          ]
       },
 
       "streamSettings": {
