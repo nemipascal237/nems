@@ -2,13 +2,11 @@
   "log": {
     "loglevel": "warning"
   },
-
   "inbounds": [
     {
       "listen": "0.0.0.0",
       "port": "env:PORT",
       "protocol": "trojan",
-
       "settings": {
         "clients": [
           {
