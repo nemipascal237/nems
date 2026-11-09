@@ -16,11 +16,9 @@
           }
           ]
       },
-
       "streamSettings": {
         "network": "ws",
         "security": "none",
-
         "wsSettings": {
           "path": "/jolytoeldios",
           "heartbeatPeriod": 20
@@ -28,7 +26,6 @@
       }
     }
   ],
-
   "outbounds": [
     {
       "protocol": "freedom"
